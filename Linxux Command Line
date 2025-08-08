@@ -49,8 +49,3 @@ By completing this module, I became confident in performing essential file and d
 - Working with cloud-based Linux instances in AWS
 
 ---
-
-## Next Steps
-- Practice using `chmod` and `chown` for file permissions  
-- Combine multiple commands using pipes (`|`) and redirection (`>`, `>>`)  
-- Begin working on Linux file permission lab
