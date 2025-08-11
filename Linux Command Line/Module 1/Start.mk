@@ -37,8 +37,7 @@ Learned list 'ls' command options
 
 ## Practice Output (Screenshots)
 > *Screenshots showing your terminal with these commands in action go here*  
-> Example:  
-> ![Command Line Screenshot](images/command-line-example.png)
+> Example:  > ![Command Line Screenshot](images/command-line-example.png)
 
 ---
 
