@@ -36,8 +36,7 @@ Learned list 'ls' command options
 ---
 
 ## Practice Output (Screenshots)
->  
----
+>  https://github.com/shavarhhenry-sudo/IT-Learning-Journal/issues/1#issue-3311456866---
 
 ## Reflection
 By completing this module, I became confident in performing essential file and directory operations without relying on a graphical user interface. These skills are fundamental for:
