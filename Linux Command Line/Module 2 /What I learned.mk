@@ -41,8 +41,7 @@ Gain proficiency in using redirection, pipes, and filters to process and manage 
 ---
 
 ## Practice Output (Screenshots)
-
-
+https://github.com/shavarhhenry-sudo/IT-Learning-Journal/issues/2
 ---
 
 ## Reflection
