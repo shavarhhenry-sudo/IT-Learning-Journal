@@ -51,4 +51,4 @@ By learning to configure the Bash environment, I now understand how system prefe
 ---
 
 ## Practice Output (Screenshots)
-> _(Add screenshots of your `.bash_profile`, exported variables, and `env | grep` results here)_
+> https://github.com/shavarhhenry-sudo/IT-Learning-Journal/issues/3
