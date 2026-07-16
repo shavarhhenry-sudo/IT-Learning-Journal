@@ -1,1 +1,5 @@
-
+type   | Rule | Example
+String	Double quotes	"Hello"
+Integer	Whole number	42
+Float	Use a Decimal	2.0
+Boolean	True or False	True
